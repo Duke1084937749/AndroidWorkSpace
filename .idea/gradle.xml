@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/dynaminfragment" />
             <option value="$PROJECT_DIR$/fragment" />
+            <option value="$PROJECT_DIR$/xmlserialize" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
