@@ -1,1 +1,1 @@
-include ':app', ':fragment', ':dynaminfragment', ':xmlserialize'
+include ':app', ':fragment', ':dynaminfragment', ':xmlserialize', ':listview'

@@ -54,7 +54,8 @@ public class MainActivity extends AppCompatActivity {
             //2.初始化序列化器 作用：设置写到哪个文件 采用什么样的编码
             xmlSerializer.setOutput(os,"UTF-8");
             //3.开始写数据
-            xmlSerializer.startDocument("UTF-8",true);
+            xmlSerializer.
+            ("UTF-8",true);
             xmlSerializer.startTag(null,"Students");
             //姓名
             xmlSerializer.startTag(null,"name");
